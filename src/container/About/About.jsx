@@ -17,7 +17,7 @@ const About = () => {
                     <p className='uppercase text-xl tracking-widest text-[#3c8ffc] app-parafrontendf'>
                         About
                     </p>
-                    <h2 className='py-4 app-head'>Hi I'm Ahmad</h2>
+                  
                     
                     <p className='py-2 text-gray-600 text-sm'>
                         Well, I’ve been working on web app development,  while still studying at ASAC. Having my own projects, coded mostly in Node JS and React JS, I have learned a lot while working on these projects. Now I am looking to get some experience.
