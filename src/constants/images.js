@@ -12,8 +12,8 @@ import javascript from "../assets/javascript.png";
 import mu5 from "../assets/mu5.png";
 import node from "../assets/node.png";
 
-import react from "../assets/react.png";
-import redux from "../assets/redux.png";
+
+
 
 import vue from "../assets/vue.png";
 
@@ -23,7 +23,7 @@ import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
 
 import profile2 from "../assets/profile2.jpg";
-import profile from "../assets/profile.png";
+
 import circle from "../assets/circle.svg";
 import logo from "../assets/mylogos.jpg";
 import logo2 from "../assets/Mylogocolor.svg";
@@ -48,8 +48,8 @@ export default {
   mu5,
   node,
 
-  react,
-  redux,
+
+
 
   vue,
   about01,
@@ -57,7 +57,7 @@ export default {
   about03,
   about04,
   profile2,
-  profile,
+
   circle,
   logo,
   logo2,
